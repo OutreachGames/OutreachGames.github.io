@@ -49,7 +49,7 @@ velocity_threshold = 1
 max_fixed_timesteps = 2
 
 [bootstrap]
-main_collection = /main/levels/ocean_level.collectionc
+main_collection = /main/levels/main.collectionc
 render = /orthographic/render/orthographic.renderc
 
 [graphics]
@@ -165,8 +165,8 @@ show_console_banner = 1
 scale_mode = downscale_fit
 
 [particle_fx]
-max_count = 64
-max_emitter_count = 64
+max_count = 128
+max_emitter_count = 128
 max_particle_count = 1024
 
 [iap]
