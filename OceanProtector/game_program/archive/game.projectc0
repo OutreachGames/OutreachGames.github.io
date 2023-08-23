@@ -1,6 +1,6 @@
 [project]
 title = Ocean Protector
-version = 0.1
+version = 1.0
 write_log = 0
 compress_archive = 1
 publisher = Outreach Games
@@ -138,7 +138,7 @@ debuggable = 0
 proguard = 
 
 [osx]
-app_icon = 
+app_icon = /asset_files/images/icons/Asset_Logo.icns
 infoplist = /builtins/manifests/osx/Info.plist
 bundle_identifier = example.unnamed
 bundle_name = 
@@ -147,7 +147,7 @@ default_language = en
 localizations = en
 
 [windows]
-app_icon = 
+app_icon = /asset_files/images/icons/favicon.ico
 
 [html5]
 custom_heap_size = 0
