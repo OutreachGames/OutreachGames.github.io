@@ -206,5 +206,5 @@ run_while_iconified = 0
 fixed_update_frequency = 60
 
 [native_extension]
-app_manifest = /generated.appmanifest
+app_manifest = /bundle_settings.appmanifest
 
