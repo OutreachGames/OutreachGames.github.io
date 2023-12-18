@@ -1,6 +1,6 @@
 [project]
 title = Ocean Protector
-version = 1.0
+version = 1.04
 write_log = 0
 compress_archive = 1
 publisher = Outreach Games
@@ -153,7 +153,7 @@ app_icon = /asset_files/images/icons/favicon.ico
 
 [html5]
 custom_heap_size = 0
-heap_size = 256
+heap_size = 64
 htmlfile = /builtins/manifests/web/engine_template.html
 cssfile = /builtins/manifests/web/dark_theme.css
 splash_image = /asset_files/images/background/Asset_logo.png
